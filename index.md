@@ -1,7 +1,7 @@
 
 
+![padvan30](https://github.com/loveencounterflow/vlieland-and-schiermonnikoog/raw/gh-pages/panoramas/vlieland-pal30-duinen.jpg)
 
-some content
 
 <!-- <iframe width="1280" height="720" src="//www.youtube.com/embed/zUDqI9PJpc8" frameborder="0" allowfullscreen></iframe> -->
 
@@ -105,4 +105,3 @@ some content
 <p><img href="https://github.com/loveencounterflow/vlieland-and-schiermonnikoog/raw/gh-pages/junk-on-the-beach/vlieland/IMG_1877.JPG"></p>
 
 <p><img href="https://github.com/loveencounterflow/vlieland-and-schiermonnikoog/raw/gh-pages/junk-on-the-beach/vlieland/IMG_2116.JPG"></p>
-
