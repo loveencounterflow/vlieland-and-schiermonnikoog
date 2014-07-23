@@ -3,8 +3,7 @@
 
 
 
-## Vlieland & Schiermonnikoog
+[Vlieland & Schiermonnikoog](http://loveencounterflow.github.io/vlieland-and-schiermonnikoog/)
 
-<video id="sampleMovie" src="./traffic-announcements/MVI_2604.AVI" controls></video>
 
 
